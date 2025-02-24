@@ -4,7 +4,7 @@ import Button from "./Button";
 import { useWindowScroll } from "react-use";
 import gsap from "gsap";
 
-const navItems = ["Neusx", "Vault", "Prologue", "About", "Contact"];
+const navItems = ["Nexus", "About", "Vault", "Prologue", "Contact"];
 
 const Navbar = () => {
   const [isAudioPlaying, setisAudioPlaying] = useState(false);
