@@ -87,7 +87,7 @@ const Features = () => {
           />
         </BentoTilt>
 
-        {/* Fixed the misplaced div wrapping the grid */}
+        
         <div className="grid h-[135vh] grid-cols-2 grid-rows-3 gap-7">
           <BentoTilt className="bento-tilt_1 row-span-1 md:col-span-1 md:row-span-2">
             <BentoCard
